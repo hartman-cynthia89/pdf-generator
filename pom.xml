@@ -1,0 +1,15 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.cynthia.pdf-generator</groupId>
+    <artifactId>pdf-generator</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+    <name>pdf-generator</name>
+
+    <modules>
+        <module>pdf-generator-parent</module>
+        <module>pdf-generator-app</module>
+    </modules>
+
+</project>
